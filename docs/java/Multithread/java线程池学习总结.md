@@ -44,7 +44,7 @@
 
 ## 原理讲的更清晰的这篇
 [包括ForkJoinPool](https://www.cnblogs.com/eric-fang/p/9004020.html)
-
+[讲清楚了Future的原理](https://www.iteye.com/blog/lixiaohui-2319738)
 ## 一 使用线程池的好处
 
 > **池化技术相比大家已经屡见不鲜了，线程池、数据库连接池、Http 连接池等等都是对这个思想的应用。池化技术的思想主要是为了减少每次获取资源的消耗，提高对资源的利用率。**
